@@ -5,4 +5,3 @@ Project  test
 
 http://jarvisitech.com/curl-php-test/
 
-I will upload code as soon as possible
